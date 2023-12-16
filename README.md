@@ -21,4 +21,4 @@ The original [DreamerV2](https://arxiv.org/abs/2010.02193) Paper is written by D
 
 Errata: Please create an [issue](https://github.com/chucnorrisful/dreamer_v2_explained/issues) on this repository or contact [me](https://github.com/chucnorrisful) directly!
 
-![Diagram of DreamerV2](/images/dream_agent.png)
+![Diagram of DreamerV2](/images/world_model_training.png)

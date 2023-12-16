@@ -13,7 +13,7 @@ and the features of model-based reinforcement learning are discussed.
 ## Links:
 
 YouTube [Video](https://www.youtube.com/watch?v=jdHXUohwfXo) with an overview over DreamerV2 _(part of the seminar)_<br>
-Full seminar paper: [PDF](https://github.com/chucnorrisful/dreamer_v2_explained/blob/main/DreamerV2_explained.pdf)
+Full seminar paper: [PDF](/DreamerV2_explained.pdf)
 
 The original [DreamerV2](https://arxiv.org/abs/2010.02193) Paper is written by Danijar Hafner, Timothy P. Lillicrap, Mohammad Norouzi and Jimmy Ba.<br>
 [Official Repository](https://github.com/danijar/dreamerv2)<br>
@@ -21,4 +21,4 @@ The original [DreamerV2](https://arxiv.org/abs/2010.02193) Paper is written by D
 
 Errata: Please create an [issue](https://github.com/chucnorrisful/dreamer_v2_explained/issues) on this repository or contact [me](https://github.com/chucnorrisful) directly!
 
-![Diagram of DreamerV2](https://github.com/chucnorrisful/dreamer_v2_explained/blob/main/DreamerV2Model.png)
+![Diagram of DreamerV2](/images/dream_agent.png)
